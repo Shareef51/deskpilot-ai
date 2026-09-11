@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="deskpilot-backend-architecture" src="https://github.com/user-attachments/assets/d6c422ea-3354-457d-84d8-aa9266408154" />
 # DeskPilot AI ServiceOps
 
 DeskPilot AI ServiceOps is a privately deployed, Windows-only IT service desk
